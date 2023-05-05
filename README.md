@@ -1,6 +1,6 @@
 # Movie Analyzer using Spark Optimization Techniques
 
-This project is a movie analyzer that uses Spark optimization techniques to improve performance. The analyzer works with a large dataset provided by MovieLens, which is not included in this repository.
+This project is a movie analyzer that uses Spark optimization techniques to improve performance. The analyzer works with a large dataset provided by [MovieLens](https://grouplens.org/datasets/movielens/).
 
 ## Requirements
 
@@ -9,10 +9,9 @@ This project requires the following software to be installed:
 - Apache Hadoop
 - Apache Spark
 
-Tested with Spark version 3.3.2
-Tested with Hadoop version 3.2.1
+Tested with Spark version 3.3.2 and Hadoop version 3.2.1
 
-This project was run on a cluster of 4 nodes, whereas 3 are datanodes with 8 GB RAM and 4 vCPUs. Namenode has 4 GB RAM with 4 vCPUs.
+This project was ran on a cluster consisting of 4 nodes, whereas 3 are datanodes with 8GB RAM and 4 vCPUs. Namenode has 4GB RAM with 4 vCPUs.
 
 ## Installation
 
